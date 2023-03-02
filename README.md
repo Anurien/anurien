@@ -5,7 +5,7 @@ src="https://img.shields.io/github/followers/anurien?logo=github&style=for-the-b
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anurien.visitor-badge)
 <a href="https://github.com/anurien" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=lat-square&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://www.linkedin.com/in/ngcobas/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/nuriagcobas/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=lat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <div align="center">
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurien&layout=compact&langs_count=15&theme=synthwave&hide_border=true" />  
